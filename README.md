@@ -1,4 +1,4 @@
 # Cpp4Apps
 
-To be filled
+This is the participation information page for the user study.
 
